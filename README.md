@@ -63,8 +63,7 @@ Criar uma plataforma que permita a ONGs:
 
 ### Links
 
-- **🌐 Site ao vivo**: [https://seu-usuario.github.io/projeto-ong](https://seu-usuario.github.io/projeto-ong)
-- **📂 Repositório**: [https://github.com/seu-usuario/projeto-ong](https://github.com/seu-usuario/projeto-ong)
+- **📂 Repositório**: [https://github.com/ProfDaniloMac/Html5-exec4](https://github.com/ProfDaniloMac/Html5-exec4)
 
 ---
 
@@ -190,7 +189,7 @@ projeto-ong/
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/projeto-ong.git
+   git clone https://github.com/ProfDaniloMac/Html5-exec4.git
    ```
 
 2. **Entre na pasta do projeto**
@@ -353,10 +352,10 @@ Veja [CHANGELOG.md](CHANGELOG.md) para histórico completo.
 
 ### Desenvolvedor Principal
 
-**[Seu Nome]**
-- 📧 Email: seu.email@exemplo.com
-- 🐙 GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- 💼 LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
+**[Danilo D. Maciel]**
+- 📧 Email: danilod@professor.educacao.sp.gov.br
+- 🐙 GitHub: [@ProfDaniloMac](https://github.com/ProfDaniloMac)
+- 💼 LinkedIn: [Danilo Maciel](https://linkedin.com/in/danilo-maciel-245a99143)
 
 ---
 
@@ -367,7 +366,7 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para d
 ```
 MIT License
 
-Copyright (c) 2024 [Seu Nome]
+Copyright (c) 2024 [Danilo Maciel]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
